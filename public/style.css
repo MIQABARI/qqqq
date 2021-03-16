@@ -1,0 +1,27 @@
+li{
+    margin-left: 80%;
+    border-radius: 20px;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 5%;
+    color: #fff;
+    padding: 12px;
+    background-color: #444950;
+    text-decoration: none;
+    list-style: none;
+    font-family: sans-serif;
+    z-index: -1;
+}
+
+.msg{
+    position: fixed;
+    bottom: 0;
+    left: 65%;
+    background: #fff;
+}
+
+.btn{
+    position: absolute;
+    left: 110%;
+    top: 10%;
+}
